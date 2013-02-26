@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emphasize", "Emphasize\Emphasize.csproj", "{1F0ADED4-AC6A-4067-BA07-D5D8EF50E721}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emphasize.Tests", "Emphasize.Tests\Emphasize.Tests.csproj", "{1C7E3B85-9EEE-4E6C-822F-C0A210B4EF02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F0ADED4-AC6A-4067-BA07-D5D8EF50E721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0ADED4-AC6A-4067-BA07-D5D8EF50E721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0ADED4-AC6A-4067-BA07-D5D8EF50E721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0ADED4-AC6A-4067-BA07-D5D8EF50E721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7E3B85-9EEE-4E6C-822F-C0A210B4EF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7E3B85-9EEE-4E6C-822F-C0A210B4EF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7E3B85-9EEE-4E6C-822F-C0A210B4EF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7E3B85-9EEE-4E6C-822F-C0A210B4EF02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
