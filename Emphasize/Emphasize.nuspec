@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Oskar Dillén</authors>
+    <owners>Oskar Dillén</owners>
+    <projectUrl>https://github.com/dillenmeister/Emphasize</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      For when you need to express yourself more cleary
+    </description>
+    <releaseNotes>
+      First release!
+    </releaseNotes>
+    <copyright>Copyright 2013</copyright>
+  </metadata>
+</package>

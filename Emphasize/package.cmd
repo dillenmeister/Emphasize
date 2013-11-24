@@ -1,0 +1,1 @@
+..\.nuget\NuGet.exe pack Emphasize.csproj -Build -Properties Configuration=Release
