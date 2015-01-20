@@ -36,5 +36,11 @@ namespace Emphasize.Tests
             var s = "";
             s = s.Trim().SomFan();
         }
+
+        public void AddSomeYanboExplicitSwedishII()
+        {
+            var s = "";
+            s = s.Trim().TjafsarSomFan();
+        }
     }
 }

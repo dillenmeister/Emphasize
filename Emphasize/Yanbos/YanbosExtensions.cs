@@ -12,5 +12,10 @@ namespace Emphasize.Yanbos
         {
             return obj;
         }
+
+        public static T TjafsarSomFan<T>(this T obj)
+        {
+            return obj;
+        }
     }
 }
