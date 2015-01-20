@@ -1,5 +1,6 @@
 ﻿using Emphasize.Explicitly;
 using Emphasize.Politely;
+using Emphasize.Yanbos;
 
 namespace Emphasize.Tests
 {
@@ -23,5 +24,23 @@ namespace Emphasize.Tests
 			var s = "";
 			s = s.Please().Fucking().Trim().Thanks();
 		}
+
+        public void AddSomeYanbo()
+        {
+            var s = "";
+            s = s.Trim().Chashaofan();
+        }
+
+        public void AddSomeYanboExplicitSwedish()
+        {
+            var s = "";
+            s = s.Trim().SomFan();
+        }
+
+        public void AddSomeYanboExplicitSwedishII()
+        {
+            var s = "";
+            s = s.Trim().TjafsarSomFan();
+        }
     }
 }

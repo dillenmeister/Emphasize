@@ -38,6 +38,7 @@
     <Compile Include="Explicitly\ExplicitExtensions.cs" />
     <Compile Include="Politely\PoliteExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Yanbos\YanbosExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="package.cmd" />
