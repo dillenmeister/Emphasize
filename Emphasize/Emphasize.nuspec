@@ -9,10 +9,16 @@
     <projectUrl>https://github.com/dillenmeister/Emphasize</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>
-      For when you need to express yourself more cleary
+      For when you need to express yourself more clearly
     </description>
     <releaseNotes>
-      Version 1.1 supports .NET 3.5!
+      Version 1.2 
+      -----------
+      * A new set of usable methods can be found in the namespace Emphasize.Yanbos (thanks henebb)!
+      
+      Version 1.1
+      -----------
+      * Now compatible with .NET 3.5 and later!    
     </releaseNotes>
     <copyright>Copyright 2013</copyright>
   </metadata>
